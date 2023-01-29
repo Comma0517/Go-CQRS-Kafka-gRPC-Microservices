@@ -1,4 +1,4 @@
-### Golang CQRS Kafka gRPC Postgresql MongoDB Redis microservice example 👋
+### Golang CQRS Kafka gRPC Postgresql MongoDB Redis microservices example 👋
 
 #### 👨‍💻 Full list what has been used:
 [Kafka](https://github.com/segmentio/kafka-go) as messages broker<br/>
